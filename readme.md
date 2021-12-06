@@ -2,5 +2,5 @@
 
 ## Table of contents
 
-(1) String concatenation using mad llbs <br>
+(1) String concatenation using mad libs <br>
 (2) 
