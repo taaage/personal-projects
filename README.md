@@ -2,4 +2,4 @@
 
 ## Table of contents
 
-### (1) String concatenation using mad libs
+(1) String concatenation using mad libs
