@@ -6,3 +6,5 @@
 `(2) User guessing game based on random numbers` <br>
 `(3) Computer guessing game based on random numbers` <br>
 `(4) Rocker, paper, scissors` <br>
+`(5) Simple calculator` <br>
+
