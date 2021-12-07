@@ -1,6 +1,4 @@
-# personal-projects
-
-## Table of contents
+**Table of contents**
 
 `(1) String concatenation using mad libs` <br>
 `(2) User guessing game based on random numbers` <br>
