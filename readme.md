@@ -5,5 +5,5 @@
 `(3) Computer guessing game based on random numbers` <br>
 `(4) Rock, paper, scissors` <br>
 `(5) Simple calculator` <br>
-'(6) Text to hex conversion` <br>
+`(6) Text to hex conversion` <br>
 
