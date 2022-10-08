@@ -19,7 +19,6 @@ def guess(x):
 
     print (f"Guess correct, {random_number} is the correct number!")
 
-guess(10)
-
+guess(1000)
        
 
